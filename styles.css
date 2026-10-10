@@ -1,1 +1,11 @@
-body {background-color: bisque;}
+body {
+  background-color: bisque;
+}
+
+.banner {
+  width: 100vw;
+  background-image: url(images/image.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
